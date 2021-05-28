@@ -6,6 +6,7 @@ Based on [Impulse CET](https://pages.github.com/) Hackathon.
 
 **Task:** Propose a solution to improve the situation for those affected by such attacks.
 
-**Team:** 1. Aswin A
-          2. Christy
-          3. Joseph John
+######Team:
+1. Aswin A
+2. Christy
+3. Joseph John

@@ -12,3 +12,7 @@ Based on [Impulse CET](https://pages.github.com/) Hackathon.
 3. Joseph John (josephjosuuu10@gmail.com)
 
 ### Wild animal attacks and existing measures
+
+- A herd of elephants destroyed paddy that was nearing harvest on two acres of farm land in Chekadi, an agricultural village in Wayanad.
+- Over Rs 5 crore losses were caused within the last 18 months due to wild elephant roaming around Aralam farm in Kannur district, located near the Aralam wildlife sanctuary.
+- Over 100 hecatres of farm lands in Tholambra, Thrikkadarippoyil, Palottuvayal, Palachippara, Sivapuram, Padupara, Alachi, Thillankeri and Mudakkozhi areas in Puralimala valley, Kannur are under threat of monkeys and wild boars.

@@ -1,4 +1,4 @@
 # Acoustic-fence
 
-Based on [Impulse CET] Hackathon(https://pages.github.com/).
+Based on [Impulse CET](https://pages.github.com/) Hackathon.
 

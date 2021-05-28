@@ -7,9 +7,9 @@ Based on [Impulse CET](https://pages.github.com/) Hackathon.
 **Task:** Propose a solution to improve the situation for those affected by such attacks.
 
 ##### Team:
-1. Aswin A (aswinajith6082@gmail.com)
-2. Christy John Manoj (christyjohnmanoj@gmail.com)
-3. Joseph John (josephjosuuu10@gmail.com)
+1. Aswin A (aswinajith6082@gmail.com) [@aswinajith6082]
+2. Christy John Manoj (christyjohnmanoj@gmail.com)[chrisssssss323]
+3. Joseph John (josephjosuuu10@gmail.com) [Appachan10]
 
 ### Wild animal attacks and existing measures
 

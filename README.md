@@ -9,4 +9,4 @@ Based on [Impulse CET](https://pages.github.com/) Hackathon.
 ##### Team:
 1. Aswin A (aswinajith6082@gmail.com)
 2. Christy John Manoj (christyjohnmanoj@gmail.com)
-3. Joseph John (josephjosuuu10@gmail.com
+3. Joseph John (josephjosuuu10@gmail.com)

@@ -13,6 +13,12 @@ Based on [Impulse CET](https://pages.github.com/) Hackathon.
 
 ### Wild animal attacks and existing measures
 
-- A herd of elephants destroyed paddy that was nearing harvest on two acres of farm land in Chekadi, an agricultural village in Wayanad.
+- As many as 153 farmers, including 93 tribal farmers, have cultivated paddy on 200 acres of the 250 acres of land under the Chekadi Padashekharam, Wayanad. Nearly 30 acres of paddy crops have been destroyed by wild animals in the last year.
 - Over Rs 5 crore losses were caused within the last 18 months due to wild elephant roaming around Aralam farm in Kannur district, located near the Aralam wildlife sanctuary.
 - Over 100 hecatres of farm lands in Tholambra, Thrikkadarippoyil, Palottuvayal, Palachippara, Sivapuram, Padupara, Alachi, Thillankeri and Mudakkozhi areas in Puralimala valley, Kannur are under threat of monkeys and wild boars.
+
+##### Current prevention methods used by farmers in Kerala:
+
+- Installing electric fences running to several kilometres on the forest borders (But the animals enter human habitats and farms after destroying them).
+- Using explosive (which can cause severe injuries to wild animals leading to certain death).
+- Poisoning and hunting wild animals (Which causes wild life extinction and environmental imbalance). 

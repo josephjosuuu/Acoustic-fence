@@ -29,10 +29,10 @@ Based on [Impulse CET](https://pages.github.com/) Hackathon.
 
 ![Untitled](https://user-images.githubusercontent.com/49588749/120074395-4d675600-c0ba-11eb-8b7d-155ad335dd15.png)
 
-### Solar Power Source
+### Solar Power Source:
 
--The FPGA board is powered by solar power.
--Most economical and renewable source of energy.
--Energy stored during day-time is used for the 24 hour real-time operation.
--Solar cells extra energy stored can be used to power up LED's setup in the farm.
--
+- The FPGA board is powered by solar power.
+- Most economical and renewable source of energy.
+- Energy stored during day-time is used for the 24 hour real-time operation.
+- Solar cells extra energy stored can be used to power up LED's setup in the farm.
+

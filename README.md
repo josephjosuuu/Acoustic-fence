@@ -23,20 +23,6 @@ Based on [Impulse CET](https://pages.github.com/) Hackathon.
 - Using explosives (which can cause severe injuries to wild animals leading to certain death).
 - Poisoning and hunting wild animals (Which causes wildlife extinction and environmental imbalance).
 
-### Why is this an issue and why is a solution necessary?
-Let's look into some articles of wildlife affecting farmers in India.
-
-WILD BOAR HAVOC IN VARIOUS PARTS OF PATHANAMTHITTA DURING SUMMER MONTHS.
-https://www.thehindu.com/news/national/kerala/wild-boar-threat-to-pathanamthitta-villages/article30729083.ece
-https://www.newindianexpress.com/states/kerala/2020/dec/03/wild-boar-jumbo-menace-top-issues-in-forest-areas-2231089.html
-
-MONKEYS BEING A MENACE TO AGRICULTURAL AND HORTICULTURAL CROPS IN SOUTHERN INDIA
-https://www.thehindu.com/news/national/karnataka/crop-raiding-monkeys-haunt-farmers-in-malnad-districts/article33441141.ece
-
-THE HUMAN-ELEPHANT CONFLICT
-https://link.springer.com/article/10.1007/s10745-020-00128-6
-http://docs.kfri.res.in/KFRI-RR/KFRI-RR169.pdf
-
 
 # Solution: Acoustic-fence
 

@@ -45,7 +45,8 @@ Based on [Impulse CET](https://pages.github.com/) Hackathon.
 ![2](https://user-images.githubusercontent.com/62739750/120079935-00907900-c0d4-11eb-8db2-44849950018c.jpeg)
 
 - Raspberry pi with RS232 converter gives in the real time observed input.
-- 
+- Analog input from mic is coverted into digital signal by the RS232 module.
+- Raspberry pi module processes the audio input for detection and segregation.
 
 ### Sound selection :
 
@@ -67,5 +68,3 @@ Based on [Impulse CET](https://pages.github.com/) Hackathon.
 - SIM900A GSM module is used to transmit message to farmer.
 - Uses HTTP and MQTT over the Local Area Network used to transmit message.
 - Emergency messages of intruder entry into field is passed onto the farmer, to take physical action(if needed).
-
-

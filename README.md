@@ -74,7 +74,8 @@ http://docs.kfri.res.in/KFRI-RR/KFRI-RR169.pdf
 
 ### Sound selection :
 
-- Animal predicted by the trained model
+- Different animals can be scared away using different alarming sounds.
+- Elephants can be scared away using the sound of [**buzzing bees** or by the sound of **angry tigers**](http://www.bbc.com/earth/story/20141204-five-ways-to-scare-off-elephants)
 
 ### Speaker :
 

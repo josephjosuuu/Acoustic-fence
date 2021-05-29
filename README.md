@@ -42,7 +42,7 @@ Based on [Impulse CET](https://pages.github.com/) Hackathon.
 
 ### Voice Recognition Module :
 
-![image](https://user-images.githubusercontent.com/62739750/120078656-1ac75880-c0ce-11eb-80b0-2dc947e00bb4.png)
+![image](https://user-images.githubusercontent.com/62739750/120078656-1ac75880-c0ce-11eb-80b0-2dc947e00bb4.png =250x250)
 
 - Raspberry pi with RS232 converter gives in the real time observed input.
 - 
@@ -53,7 +53,7 @@ Based on [Impulse CET](https://pages.github.com/) Hackathon.
 
 ### Speaker :
 
-![Speaker-Speaker_and_Raspberry_Pi](https://user-images.githubusercontent.com/62739750/120078687-46e2d980-c0ce-11eb-8edc-3fc6ca8e326c.jpg)
+![Speaker-Speaker_and_Raspberry_Pi](https://user-images.githubusercontent.com/62739750/120078687-46e2d980-c0ce-11eb-8edc-3fc6ca8e326c.jpg =250x250)
 
 - The speaker gives out infrasonic sound and ultrasonic sounds according to the animal predicted.
 - The sound is kept out of human hearing range.
@@ -62,7 +62,7 @@ Based on [Impulse CET](https://pages.github.com/) Hackathon.
 
 ### Send Message :
 
-![SIM-900-2](https://user-images.githubusercontent.com/62739750/120078705-6d087980-c0ce-11eb-930e-8e6cbe489398.jpeg)
+![SIM-900-2](https://user-images.githubusercontent.com/62739750/120078705-6d087980-c0ce-11eb-930e-8e6cbe489398.jpeg =250x250)
 
 - SIM900A GSM module is used to transmit message to farmer.
 - Uses HTTP and MQTT over the Local Area Network used to transmit message.

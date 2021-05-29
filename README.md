@@ -27,15 +27,14 @@ Based on [Impulse CET](https://pages.github.com/) Hackathon.
 
 ### Block diagram
 
-![Untitled](https://user-images.githubusercontent.com/49588749/120077317-89ed7e80-c0c7-11eb-9954-97ccb16496e3.png)
-
+![Untitled](https://user-images.githubusercontent.com/49588749/120074395-4d675600-c0ba-11eb-8b7d-155ad335dd15.png)
 
 
 
 
 ### Solar Power Source:
 
-- The Rasberry Pi module is powered by solar power.
+- The Raspberry pi board is powered by solar power.
 - Most economical and renewable source of energy.
 - Energy stored during day-time is used for the 24 hour real-time operation.
 - Solar cells extra energy stored can be used to power up LED's setup in the farm.
@@ -43,7 +42,30 @@ Based on [Impulse CET](https://pages.github.com/) Hackathon.
 
 ### Voice Recognition Module :
 
+![image](https://user-images.githubusercontent.com/62739750/120078656-1ac75880-c0ce-11eb-80b0-2dc947e00bb4.png)
+
+- Raspberry pi with RS232 converter gives in the real time observed input.
 - 
 
-### Sound selection:
+### Sound selection :
+
+- Animal predicted by the trained model
+
+### Speaker :
+
+![Speaker-Speaker_and_Raspberry_Pi](https://user-images.githubusercontent.com/62739750/120078687-46e2d980-c0ce-11eb-8edc-3fc6ca8e326c.jpg)
+
+- The speaker gives out infrasonic sound and ultrasonic sounds according to the animal predicted.
+- The sound is kept out of human hearing range.
+- 14-16hz voice clip for elephants.
+- Ultrasonic voice clips for Boar and monkey.
+
+### Send Message :
+
+![SIM-900-2](https://user-images.githubusercontent.com/62739750/120078705-6d087980-c0ce-11eb-930e-8e6cbe489398.jpeg)
+
+- SIM900A GSM module is used to transmit message to farmer.
+- Uses HTTP and MQTT over the Local Area Network used to transmit message.
+- Emergency messages of intruder entry into field is passed onto the farmer, to take physical action(if needed).
+
 

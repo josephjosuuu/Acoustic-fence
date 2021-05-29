@@ -1,3 +1,4 @@
+![Untitled](https://user-images.githubusercontent.com/49588749/120074395-4d675600-c0ba-11eb-8b7d-155ad335dd15.png)
 # Acoustic-fence
 
 Based on [Impulse CET](https://pages.github.com/) Hackathon.

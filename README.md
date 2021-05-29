@@ -22,3 +22,5 @@ Based on [Impulse CET](https://pages.github.com/) Hackathon.
 - Installing electric fences running to several kilometers on the forest borders (But the animals enter human habitats and farms after destroying them).
 - Using explosives (which can cause severe injuries to wild animals leading to certain death).
 - Poisoning and hunting wild animals (Which causes wildlife extinction and environmental imbalance).
+
+# Solution: Acoustic-fence

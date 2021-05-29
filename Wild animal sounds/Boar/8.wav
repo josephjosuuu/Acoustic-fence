@@ -1,0 +1,115 @@
+<html>
+
+
+<head>
+<title>404 Error - file not found</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<style type="text/css">
+
+body {
+  padding:0px;
+  margin:0px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color:#ffffff;
+  color:#000000;
+}
+#topbar {
+  display:block;
+  padding:2px 0px 3px 30px;
+  margin:0px;
+  background-color:#e5ecf9;
+  font-size:12px;
+}
+#middle {
+  margin:34px 0px 0px 150px;
+  width:60%;
+}
+#logo {
+  position:absolute;
+  top:120px;
+  left:32px;
+}
+p, li, input {
+  font-size:85%;
+  line-height:160%;
+}
+ul {
+  margin-left:0px;
+  padding-left:20px;
+  padding-bottom:0.75em;
+}
+li {
+  margin-left:0px;
+  padding-left:0px;
+}
+li a {
+  font-weight:bold;
+}
+input {
+  vertical-align:middle;
+  margin: 1px 0px 1px 0px;
+}
+input[type="radio"] {
+  margin-left:5px;
+}
+label {
+  font-size:70%;
+  text-transform:capitalize;
+  vertical-align:middle;
+  letter-spacing:0.05em;
+}
+form {
+  padding-bottom:5em;
+}
+a, a:link, a:visited {
+  color: #993333; 
+  text-decoration: none;
+}
+a:hover, a:active {
+  text-decoration:underline;
+}
+
+
+</style>
+</head>
+
+<body>
+<div id="topbar">&nbsp;</div> 
+<div id="middle"> 
+  <h1>file not found</h1>
+
+  <p>The page you are looking for might have been removed, had its name changed, 
+	or is temporarily unavailable.</p>
+
+  <ul>
+    <li>If you typed the page url, check the spelling.</li>
+    <li>Click the <a href="javascript:history.back(1);">Back</a> button to try 
+	another link.</li>
+	<li>Search the web using Google Search below:</li>
+</ul> 
+
+	<center>
+<form method="GET" action="http://www.google.com/custom" target="_top">
+<div align="left">
+<table bgcolor="#ffffff">
+<tr><td valign="top" align="left" height="32">
+<img src="http://www.google.com/logos/Logo_25wht.gif" border="0" alt="Google" align="middle"></img></a>
+<input type="text" name="q" size="31" maxlength="255" value=""></input>
+<input type="submit" name="sa" value="Search"></input>
+<input type="hidden" name="client" value="pub-3697026475575756"></input>
+<input type="hidden" name="forid" value="1"></input>
+<input type="hidden" name="ie" value="ISO-8859-1"></input>
+<input type="hidden" name="oe" value="ISO-8859-1"></input>
+<input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;FORID:1"></input>
+<input type="hidden" name="hl" value="en"></input>
+</td></tr></table>
+</div>
+</form>
+</center>
+<!-- Search Google -->
+</p>
+	<p>HTTP 404 - File not found </p>
+ </div> 
+
+</body>
+</html>

@@ -27,7 +27,8 @@ Based on [Impulse CET](https://pages.github.com/) Hackathon.
 
 ### Block diagram
 
-![Untitled](https://user-images.githubusercontent.com/49588749/120074395-4d675600-c0ba-11eb-8b7d-155ad335dd15.png)
+![Untitled](https://user-images.githubusercontent.com/49588749/120077317-89ed7e80-c0c7-11eb-9954-97ccb16496e3.png)
+
 
 
 

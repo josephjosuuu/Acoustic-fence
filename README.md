@@ -47,6 +47,7 @@ Based on [Impulse CET](https://pages.github.com/) Hackathon.
 - Raspberry pi with RS232 converter gives in the real time observed input.
 - Analog input from mic is coverted into digital signal by the RS232 module.
 - Raspberry pi module processes the audio input for detection and segregation.
+- [Dataset](https://github.com/Appachan10/Acoustic-fence/tree/main/Wild%20animal%20sounds) consisting of the class 'Boar', 'Elephant', and 'Monkey' are included in the training process
 
 ### Sound selection :
 

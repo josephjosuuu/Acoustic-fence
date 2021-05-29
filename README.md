@@ -76,6 +76,8 @@ http://docs.kfri.res.in/KFRI-RR/KFRI-RR169.pdf
 
 - Different animals can be scared away using different alarming sounds.
 - Elephants can be scared away using the sound of [**buzzing bees** or by the sound of **angry tigers**](http://www.bbc.com/earth/story/20141204-five-ways-to-scare-off-elephants)
+- Boars are generally afraid of loud noises. So, giving out a bursting sound can be very effective towards them.
+- [High-intensity ultrasonic sound waves of 20-50 kHz frequency](https://www.hindustantimes.com/punjab/ultrasonic-machine-to-keep-away-monkeys-in-shimla/story-Yrf9NB1uhoW93qlcG71FEJ.html) are very effective towards monkeys. But here we can use crackling or busting sounds to scare them away.
 
 ### Speaker :
 

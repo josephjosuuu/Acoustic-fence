@@ -53,7 +53,8 @@ Based on [Impulse CET](https://pages.github.com/) Hackathon.
 - We used CNN architecture for writting the [program](https://github.com/Appachan10/Acoustic-fence/blob/main/Animal_voice_recognition.ipynb) to recognise the 3 classes.
 - The [dataset](https://github.com/Appachan10/Acoustic-fence/tree/main/Wild%20animal%20sounds) consisting of the audio files of the classes 'Boar', 'Elephant', and 'Monkey' were included in the training process.
 - We converted the audio file into spectrogram, which are used as input to the CNN architecture 
-![image](https://user-images.githubusercontent.com/49588749/120082250-7c43f300-c0df-11eb-9b8b-a681e30eb3ae.png)
+
+![image](https://user-images.githubusercontent.com/49588749/120082551-430c8280-c0e1-11eb-8ffd-4e60c7c0d3a4.png)
 
 
 ### Sound selection :

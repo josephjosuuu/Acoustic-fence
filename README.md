@@ -50,9 +50,11 @@ Based on [Impulse CET](https://pages.github.com/) Hackathon.
 - Analog input from mic is coverted into digital signal by the RS232 module.
 - Raspberry pi module processes the audio input for detection and segregation.
 - Here we are considering 3 classes of animals - 'Boar', 'Elephant', and 'Monkey'.
-- We used CNN architecture to build the [program](https://github.com/Appachan10/Acoustic-fence/blob/main/Animal_voice_recognition.ipynb) to recognise the 3 classes.
-- [Dataset](https://github.com/Appachan10/Acoustic-fence/tree/main/Wild%20animal%20sounds) consisting of the audio files of the classes 'Boar', 'Elephant', and 'Monkey' were included in the training process.
-- 
+- We used CNN architecture for writting the [program](https://github.com/Appachan10/Acoustic-fence/blob/main/Animal_voice_recognition.ipynb) to recognise the 3 classes.
+- The [dataset](https://github.com/Appachan10/Acoustic-fence/tree/main/Wild%20animal%20sounds) consisting of the audio files of the classes 'Boar', 'Elephant', and 'Monkey' were included in the training process.
+- We converted the audio file into spectrogram, which are used as input to the CNN architecture 
+![image](https://user-images.githubusercontent.com/49588749/120082250-7c43f300-c0df-11eb-9b8b-a681e30eb3ae.png)
+
 
 ### Sound selection :
 

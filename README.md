@@ -45,10 +45,13 @@ Based on [Impulse CET](https://pages.github.com/) Hackathon.
 
 ![2](https://user-images.githubusercontent.com/62739750/120079935-00907900-c0d4-11eb-8db2-44849950018c.jpeg)
 
+- In this project different wild animals are detected using their voices.
 - Raspberry pi with RS232 converter gives in the real time observed input.
 - Analog input from mic is coverted into digital signal by the RS232 module.
 - Raspberry pi module processes the audio input for detection and segregation.
-- [Dataset](https://github.com/Appachan10/Acoustic-fence/tree/main/Wild%20animal%20sounds) consisting of the class 'Boar', 'Elephant', and 'Monkey' were included in the training process.
+- Here we are considering 3 classes of animals - 'Boar', 'Elephant', and 'Monkey'.
+- We used CNN architecture to build the [program](https://github.com/Appachan10/Acoustic-fence/blob/main/Animal_voice_recognition.ipynb) to recognise the 3 classes.
+- [Dataset](https://github.com/Appachan10/Acoustic-fence/tree/main/Wild%20animal%20sounds) consisting of the audio files of the classes 'Boar', 'Elephant', and 'Monkey' were included in the training process.
 - 
 
 ### Sound selection :
